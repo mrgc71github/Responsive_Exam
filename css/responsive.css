@@ -1,0 +1,163 @@
+@media only screen and (max-width: 480px) {
+	
+	.section{
+		width: 100%;
+	}
+
+	#about .col-lg-12 {
+	    width: 100%;
+	}
+
+	aside.call-to-action.bg-primary h3 {
+	    margin: 10px;
+	    width: 100%;
+	}
+
+	.text-vertical-center h1,.text-vertical-center h3  {
+	    margin: 10px;
+	    width: 100%;
+	    font-size: 1.5em;
+	}
+
+	.blk {
+	    width: 100%;
+	    float: left;
+	    text-align: center;
+	    margin-bottom: 15px;
+	}
+
+	.callout {
+	    display: table;
+	    width: 100%;
+	    height: 600px;
+	}
+
+	.blk2 {
+	    width: 100%;
+	    float: left;
+	    margin: 10px;
+	    text-align: center;
+	}
+}
+
+
+@media (max-width: 1200px){
+	.col-lg-12 {
+	    width: 100%;
+	}
+
+	.callout {
+	    display: table;
+	    width: 100%;
+	    height: 600px;
+	}
+
+	
+}
+
+
+@media (max-width: 768px){
+	.col-lg-12 {
+	    width: 100%;
+	}
+
+	footer {
+	    padding: -12px;
+	    text-align: center;
+	    float: none;
+	}
+
+	aside.call-to-action.bg-primary h3 {
+	    margin: 10px;
+	    width: 100%;
+	}
+
+	.text-vertical-center h1,.text-vertical-center h3  {
+	    margin: 10px;
+	    width: 100%;
+	    font-size: 1.5em;
+	}
+}
+
+
+@media (min-width: 768px){
+	.container {
+	    width: 100%;
+	}
+}
+
+
+@media (min-width: 955px) and (max-width: 1200px){
+	.blk {
+	    width: 25%;
+	    text-align: center;
+	    margin-bottom: 15px;
+	}
+
+	.container{
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 954px){
+	.col-lg-12 {
+	    width: 100%;
+	}
+
+	.blk {
+	    width: 50%;
+	    text-align: center;
+	    margin-bottom: 15px;
+	}
+
+	.blk2 {
+	    width: 50%;
+	    float: left;
+	    margin: 10px;
+	    text-align: center;
+	}
+
+	aside.call-to-action.bg-primary h3 {
+	    margin: 10px;
+	    width: 100%;
+	}
+
+	.text-vertical-center h3 {
+	    margin: 10px;
+	    width: 100%;
+	}
+
+	.container{
+		width: 100%;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 768px){
+	.col-lg-12 {
+	    width: 100%;
+	}
+
+	.blk {
+	    width: 50%;
+	    text-align: center;
+	    margin-bottom: 15px;
+	}
+
+	.blk2 {
+	    width: 45%;
+	    float: left;
+	    margin: 10px;
+	    text-align: center;
+	}
+
+	aside.call-to-action.bg-primary h3 {
+	    margin: 10px;
+	    width: 100%;
+	}
+
+
+}
+}
+
+
+
